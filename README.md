@@ -7,6 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishitha+Ganagoni!;" />
 </h1>
 
+<h1 align="center" style="color: red;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishitha+Ganagoni!;" />
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishithaganagoni&label=Profile%20views&color=0e75b6&style=flat" alt="rishithaganagoni" /> </p>
 
 - 📫 How to reach me **rishithagoud292000@gmail.com**
