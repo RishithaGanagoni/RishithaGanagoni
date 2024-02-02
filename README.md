@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rishitha Ganagoni</h1>
 <h3 align="center">I'm passionate about Data</h3>
 
-<h1 align="center">
+<h1 align="center" style="color: red;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishitha+Ganagoni!;" />
 </h1>
 
