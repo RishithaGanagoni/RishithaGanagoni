@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rishitha Ganagoni Welocme to my github profile. Please feel free to contact me if you feel my passion aligns with your motive.
+### Hi there 👋 I'm Rishitha Ganagoni Welcome to my github profile. Please feel free to contact me if you feel my passion aligns with your motive.
 
 <!--
 **RishithaGanagoni/RishithaGanagoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
