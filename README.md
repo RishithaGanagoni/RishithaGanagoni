@@ -12,8 +12,9 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 - [Resume](<Link_to_Your_Resume>)
 
 # About me 🚀
-----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 🎓 Education
+
 Master of Science in Management Information Systems
 
 Oklahoma State University, Stillwater, OK
