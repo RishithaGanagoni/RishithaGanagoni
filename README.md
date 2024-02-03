@@ -14,7 +14,7 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 # About me 🚀
 
 
-🎓 Education
+## 🎓 Education
 
 Master of Science in Management Information Systems
 
