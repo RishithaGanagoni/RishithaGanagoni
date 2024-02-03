@@ -7,6 +7,7 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 
 ![Map](URL_to_your_static_map_image)
 ![Stillwater, Oklahoma](Downloads)
+![alt text]((https://www.google.com/imgres?imgurl=https%3A%2F%2Fus.123rf.com%2F450wm%2Ficonscart%2Ficonscart2008%2Ficonscart200801272%2F153479382-location.jpg%3Fver%3D6&tbnid=2k4HnDhGFPnwbM&vet=10CJIBEDMopwFqFwoTCIiU8J-MkIQDFQAAAAAdAAAAABAD..i&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fstock-photo%2Flocation_icon.html&docid=5BzR0N0TZnSPqM&w=450&h=450&q=map%20location%20icon&hl=en&ved=0CJIBEDMopwFqFwoTCIiU8J-MkIQDFQAAAAAdAAAAABAD).png)
 
 
 ## Get in touch with me 🌐
