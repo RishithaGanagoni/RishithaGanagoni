@@ -2,7 +2,8 @@
 <h1 align="center" style="color: red;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishitha+Ganagoni!;" />
 </h1>
-
+ 
+ Stillwater, Oklahoma, USA
 - 📫 How to reach me **rishithagoud292000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
