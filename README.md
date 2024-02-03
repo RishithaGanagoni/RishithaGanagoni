@@ -10,7 +10,7 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishitha-ganagoni/)
 - Email: [rishithagoud292000@gmail.com](mailto:rishithagoud292000@gmail.com)
 - [Resume](<Link_to_Your_Resume>)
-- [![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+- [![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:rishithagoud292000@gmail.com)
 
 
 
