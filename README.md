@@ -5,27 +5,12 @@
 
 Welcome to my GitHub profile, where I share my projects and ideas related to the exciting world of data. Don't hesitate to reach out if you find that my enthusiasm aligns with your goals.
 
-![Map](URL_to_your_static_map_image)
-![Stillwater, Oklahoma](Downloads)
-![alt text]((https://www.google.com/imgres?imgurl=https%3A%2F%2Fus.123rf.com%2F450wm%2Ficonscart%2Ficonscart2008%2Ficonscart200801272%2F153479382-location.jpg%3Fver%3D6&tbnid=2k4HnDhGFPnwbM&vet=10CJIBEDMopwFqFwoTCIiU8J-MkIQDFQAAAAAdAAAAABAD..i&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fstock-photo%2Flocation_icon.html&docid=5BzR0N0TZnSPqM&w=450&h=450&q=map%20location%20icon&hl=en&ved=0CJIBEDMopwFqFwoTCIiU8J-MkIQDFQAAAAAdAAAAABAD).png)
-
-
 ## Get in touch with me 🌐
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishitha-ganagoni/)
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:rishithagoud292000@gmail.com)
 - [Resume](<Link_to_Your_Resume>)
-  
 
-
-
-
-
-Feel free to reach out, and let's connect!
-
-
- Stillwater, Oklahoma, USA
-- 📫 How to reach me **rishithagoud292000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
