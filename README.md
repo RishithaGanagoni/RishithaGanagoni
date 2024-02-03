@@ -10,6 +10,8 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rishitha-ganagoni/)
 - Email: [rishithagoud292000@gmail.com](mailto:rishithagoud292000@gmail.com)
 - [Resume](<Link_to_Your_Resume>)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/)
+
 
 
 Feel free to reach out, and let's connect!
