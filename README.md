@@ -5,9 +5,9 @@
 
 Welcome to my GitHub profile, where I share my projects and ideas related to the exciting world of data. Don't hesitate to reach out if you find that my enthusiasm aligns with your goals.
 
-## Connect with Me 🌐
+## Get in touch with me 🌐
 
-- [LinkedIn](<www.linkedin.com/in/rishitha-ganagoni>)
+- LinkedIn: [LinkedIn](<www.linkedin.com/in/rishitha-ganagoni>)
 - Email: [rishithagoud292000@gmail.com](mailto:rishithagoud292000@gmail.com)
 - [Resume](<Link_to_Your_Resume>)
 
