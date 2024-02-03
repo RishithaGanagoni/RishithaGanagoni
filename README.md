@@ -3,7 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishitha+Ganagoni!;" />
 </h1>
 
-#Don't hesitate to reach out if you find that my enthusiasm aligns with your goals.
+Welcome to my GitHub profile, where I share my projects and ideas related to the exciting world of data. Don't hesitate to reach out if you find that my enthusiasm aligns with your goals.
+
+## Connect with Me 🌐
+
+- [LinkedIn](<Your_LinkedIn_Profile_Link>)
+- Email: [naveenvarmap7666@gmail.com](mailto:naveenvarmap7666@gmail.com)
+- [Resume](<Link_to_Your_Resume>)
+
+Feel free to reach out, and let's connect!
+
+
  Stillwater, Oklahoma, USA
 - 📫 How to reach me **rishithagoud292000@gmail.com**
 
