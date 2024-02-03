@@ -7,8 +7,8 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 
 ## Connect with Me 🌐
 
-- [LinkedIn](<Your_LinkedIn_Profile_Link>)
-- Email: [naveenvarmap7666@gmail.com](mailto:naveenvarmap7666@gmail.com)
+- [LinkedIn](<www.linkedin.com/in/rishitha-ganagoni>)
+- Email: [rishithagoud292000@gmail.com](mailto:rishithagoud292000@gmail.com)
 - [Resume](<Link_to_Your_Resume>)
 
 Feel free to reach out, and let's connect!
