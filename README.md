@@ -5,6 +5,8 @@
 
 Welcome to my GitHub profile, where I share my projects and ideas related to the exciting world of data. Don't hesitate to reach out if you find that my enthusiasm aligns with your goals.
 
+![Map](URL_to_your_static_map_image)
+
 ## Get in touch with me 🌐
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishitha-ganagoni/)
