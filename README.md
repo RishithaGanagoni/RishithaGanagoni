@@ -7,12 +7,9 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 
 ## Get in touch with me 🌐
 
-- LinkedIn: [LinkedIn](<www.linkedin.com/in/rishitha-ganagoni>)
-- ![LinkedIn](www.linkedin.com/in/rishitha-ganagoni)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rishitha-ganagoni/)
 - Email: [rishithagoud292000@gmail.com](mailto:rishithagoud292000@gmail.com)
 - [Resume](<Link_to_Your_Resume>)
-[LinkedIn](https:www.linkedin.com/in/rishitha-ganagoni)
-[![LinkedIn](https://www.linkedin.com/in/rishitha-ganagoni/)
 
 
 Feel free to reach out, and let's connect!
