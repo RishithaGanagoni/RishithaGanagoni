@@ -12,8 +12,16 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 - [Resume](<Link_to_Your_Resume>)
 
 # About me 🚀
+🌱 Learning advanced techniques in Cloud Computing
+👯 Looking to collaborate on data-driven projects
+💬 Ask me about Python, SQL, Tableau, SAS Viya, and ETL processes
 
+# Projects👩‍🏭
 
+# Skill Set🤹‍♂️
+
+- Programming Languages
+  
 ## 🎓 Education
 
 Master of Science in Management Information Systems
