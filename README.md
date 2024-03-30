@@ -20,6 +20,9 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 
 # Projects👩‍🏭
 
+- Data Warehouse
+- https://github.com/your-RishithaGanagoni/data-warehouse-project
+
 # Skill Set🤹‍♂️
 
 - Programming Languages
