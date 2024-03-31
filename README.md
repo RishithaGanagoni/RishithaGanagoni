@@ -22,6 +22,7 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 
 - Data Warehouse - [Data Warehouse](https://github.com/RishithaGanagoni/Data-Warehousing)
 - Web Analytics - [Web Analytics](https://github.com/RishithaGanagoni/Web-Analytics)
+- Data Visualization - [Data Visualization]()
 
 # Skill Set🤹‍♂️
 
