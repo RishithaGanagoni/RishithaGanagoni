@@ -24,6 +24,7 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 - Web Analytics - [Web Analytics](https://github.com/RishithaGanagoni/Web-Analytics)
 - Data Visualization - [Tableau](https://public.tableau.com/app/profile/rishitha.ganagoni/vizzes)
                      - [Power BI]()
+- Data Analytics - [Data Analytics]()
 
   
 ## 🎓 Education
