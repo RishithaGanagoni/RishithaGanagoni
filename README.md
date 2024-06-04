@@ -32,7 +32,7 @@ Welcome to my GitHub profile, where I share my projects and ideas related to the
 Master of Science in Management Information Systems
 
 Oklahoma State University, Stillwater, OK
-Graduation Date: May 2024 | Overall GPA: 4.0
+Graduation Date: May 2024 | Overall GPA: 3.9
 
 Malla Reddy Engineering College, Hyderabad, Telangana, India
 Electronics and Communication Engineering | GPA: 3.7
